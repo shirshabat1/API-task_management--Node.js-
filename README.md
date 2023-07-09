@@ -1,7 +1,7 @@
 # API-task_management--Node.js
 # Task Managment
 
-You can add/delete/update/view all your tasks using API calls
+Manage you tasks by add/delete/update/view  tasks using API calls
 
 ---
 ## Requirements
