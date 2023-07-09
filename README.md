@@ -16,7 +16,7 @@ For development, you can use Visual Studio Code with Node.js package.
 
 ## Configure app
 
-Open `.env` and choose which port would you like to listen
+create new file `.env` and choose which port would you like to listen (for example, PORT= 5000)
 
 ## Running the project via terminal
 $ npm run dev
